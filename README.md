@@ -1,4 +1,4 @@
-# Hello, I'm Orhab Gökberk Ünal!
+# Hello, I'm Orhan Gökberk Ünal!
 
 👋 I am a computer engineer with a real passion for mobile development, work, and self-study sessions while taking every opportunity to learn more.
 
