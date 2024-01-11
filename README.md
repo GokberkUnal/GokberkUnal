@@ -10,9 +10,9 @@
 ## 💼 My Projects
 Below are some of the projects I have worked on. For more details, click on the links.
 
-1. **Litt Game** - Built a 2D shooter games with a team, used C with the help of SDL libraries. [(https://github.com/frekons/litt-game)](#)
-2. **BURGER TUBE** - Built a Youtube clone for Ios platform. Used SwiftUI Firebase for backend services and Firestore for storage.. [(https://github.com/GokberkUnal/BurgerTube)](#)
-3. **SHIFT APP** - Built a cross-platform mobile app for keeping the track of the workers’ shift days and times in a hybrid work module. Used Dart/flutter, Firebase for backend services, Firestore for storage, Firebase Authanticator for authentication. [(https://github.com/GokberkUnal/shift_app)](#)
+1. **Litt Game** - Built a 2D shooter games with a team, used C with the help of SDL libraries. [View Project](https://github.com/frekons/litt-game)
+2. **BURGER TUBE** - Built a Youtube clone for Ios platform. Used SwiftUI Firebase for backend services and Firestore for storage.[View Project](https://github.com/GokberkUnal/BurgerTube)
+3. **SHIFT APP** - Built a cross-platform mobile app for keeping the track of the workers’ shift days and times in a hybrid work module. Used Dart/flutter, Firebase for backend services, Firestore for storage, Firebase Authenticator for authentication.  [View Project](https://github.com/GokberkUnal/shift_app)  
 4. **ELECTRICITY_PAYMENT_APP** - Built a cross-platform and multi-language app for pay electric bills. Used Dart/Flutter with the help of dio and provider libraries.
 5. **BIRI-APP** - Built a cross-platform app for delivery services and travel. Used Dart/Flutter with the help of flutter_map and provider libraries.
 6. **Soru-Yorum?** - This project showcases a group card game available on both iOS and Android platforms. The iOS version was developed using Swift. On the other hand, the Android version was crafted with Kotlin.
