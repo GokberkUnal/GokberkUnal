@@ -25,6 +25,6 @@ Below are some of the projects I have worked on. For more details, click on the 
 I am currently looking for new opportunities and am interested in full-time positions in mobile app development. I aim to be part of innovative projects, excel in team collaborations, and commit to continuous learning.
 
 ## 📫 Contact Me
-You can reach me via email at [unalorhangokberk@gmail.com] or through my LinkedIn profile at [(https://www.linkedin.com/in/orhan-gokberk-unal/)].
+You can reach me via email at [unalorhangokberk@gmail.com] or through my LinkedIn profile at [https://www.linkedin.com/in/orhan-gokberk-unal/]. You can check my [Resume](https://github.com/GokberkUnal/resume).
 
 
